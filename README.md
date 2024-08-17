@@ -53,7 +53,7 @@ To get started with the project, follow these steps:
 
 You can check out the live demo of the Tic-Tac-Toe Game [here](https://abhishekgurjar-in.github.io/Tic-Tac-Toe/).
 ## Screenshots
-#![Screenshot 2024-08-17 214844](https://github.com/user-attachments/assets/ec3b991c-e8c5-423f-9082-f537cbad4cf7)
+![Screenshot 2024-08-17 214844](https://github.com/user-attachments/assets/ec3b991c-e8c5-423f-9082-f537cbad4cf7)
 
 # Live Demo
 ## Conclusion
