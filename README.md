@@ -21,7 +21,6 @@ The **Tic-Tac-Toe Game** is a web-based implementation of the popular two-player
 - **CSS**: Styles the game board, buttons, and other UI elements.
 - **JavaScript**: Manages the game logic, including player turns, win conditions, and resetting the game.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
