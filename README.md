@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Tic-Tac-Toe.git
+    git clone https://github.com/abhishekboadgurjar/Tic-Tac-Toe.git
     ```
 
 2. **Open the project directory**:
@@ -50,7 +50,7 @@ To get started with the project, follow these steps:
 
 
 
-You can check out the live demo of the Tic-Tac-Toe Game [here](https://abhishekgurjar-in.github.io/Tic-Tac-Toe/).
+You can check out the live demo of the Tic-Tac-Toe Game [here](https://abhishekboadgurjar.github.io/Tic-Tac-Toe/).
 ## Screenshots
 ![Screenshot 2024-08-17 214844](https://github.com/user-attachments/assets/ec3b991c-e8c5-423f-9082-f537cbad4cf7)
 
@@ -66,4 +66,4 @@ This project was developed as part of my ongoing journey to improve my web devel
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
